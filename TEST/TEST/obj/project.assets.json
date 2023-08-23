@@ -3095,11 +3095,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsymb\\Desktop\\TEST\\TEST\\TEST.csproj",
+      "projectUniqueName": "C:\\Users\\tsymb\\Documents\\Repositories\\DeliveryAPI\\TEST\\TEST\\TEST.csproj",
       "projectName": "TEST",
-      "projectPath": "C:\\Users\\tsymb\\Desktop\\TEST\\TEST\\TEST.csproj",
+      "projectPath": "C:\\Users\\tsymb\\Documents\\Repositories\\DeliveryAPI\\TEST\\TEST\\TEST.csproj",
       "packagesPath": "C:\\Users\\tsymb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsymb\\Desktop\\TEST\\TEST\\obj\\",
+      "outputPath": "C:\\Users\\tsymb\\Documents\\Repositories\\DeliveryAPI\\TEST\\TEST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\SDK\\NuGetPackages"
