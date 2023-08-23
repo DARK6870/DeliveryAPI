@@ -2,11 +2,11 @@
 Project Name: **DeliveryAPI**                    
 Creation Date: **July 2023**
 
-Technologies used in the project:
-C# .NET,
-Dapper - for working with database,
-Swagger - as a graphical shell for the project,
-Endpoints - for grouping the project structure and methods
+Technologies used in the project:<br>
+C# .NET,<br>
+Dapper - for working with database,<br>
+Swagger - as a graphical shell for the project,<br>
+Endpoints - for grouping the project structure and methods<br>
 
 # Screenshots:
 ![Screenshot 1:](Screenshot_2.png)
